@@ -31,11 +31,11 @@ Cari data user berupa email yang ada dalam .pcap
 ## Soal 2.b
 Pada protokol imf terdapat 2 pesan. Cari 2 data pesan tersebut!
 1. Proses Filtering Dilakukan dengan `imf`
-![alt text](https://github.com/danial921/NCC-Third-Assignment-Danial-Farros/blob/main/Soal2/2a-3.png)
+![alt text](https://github.com/danial921/NCC-Third-Assignment-Danial-Farros/blob/main/Soal2/2b-3.png)
 2. Melakukan Analisis Terhadap Pesan 1
-![alt text](https://github.com/danial921/NCC-Third-Assignment-Danial-Farros/blob/main/Soal2/2a-1.png)
+![alt text](https://github.com/danial921/NCC-Third-Assignment-Danial-Farros/blob/main/Soal2/2b-1.png)
 4. Melakukan Analisis Terhadap Pesan 2
-![alt text](https://github.com/danial921/NCC-Third-Assignment-Danial-Farros/blob/main/Soal2/2a-2.png)
+![alt text](https://github.com/danial921/NCC-Third-Assignment-Danial-Farros/blob/main/Soal2/2b-2.png)
 
 ## Soal 2.c
 Cari data file .docx yang dikirim Ann
